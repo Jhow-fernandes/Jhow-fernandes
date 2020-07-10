@@ -1,16 +1,13 @@
-### Hi there 👋
+# Jonathan Fernandes :man_technologist:
 
-<!--
-**Jhow-fernandes/Jhow-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/Jhow)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-fernandes-102672178/)](https://www.linkedin.com/in/jonathan-fernandes-102672178/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jcostafernandes.ti@gmail.com)](mailto:jcostafernandes.ti@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/jotcosta/)
 
-Here are some ideas to get you started:
+### Hellooo! 👋 Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi everyone I call Jonathan Better known as John, I'm a Jr Front-end developer 👨🏽‍💻 
+- Completely passionate about PHP 💙 
+ - Studying Laravel and Vue 🌱 
+ - And a damage studied in UI / UX ⚡ 
