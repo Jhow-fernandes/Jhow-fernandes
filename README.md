@@ -10,4 +10,4 @@
 Hi everyone I call Jonathan Better known as John, I'm a Jr Front-end developer 👨🏽‍💻 
 - Completely passionate about PHP 💙 
  - Studying Laravel and Vue 🌱 
- - And a damage studied in UI / UX ⚡ 
+ - And I've been studying in UI / UX ⚡ 
