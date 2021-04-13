@@ -8,6 +8,6 @@
 ### Hellooo! 👋 Welcome to my profile
 
 Hi everyone I call Jonathan Better known as John, I'm a Jr Front-end developer 👨🏽‍💻 
-- Completely passionate about PHP 💙 
- - Studying Laravel and Vue 🌱 
+- Completely passionate about JavaScript and NodeJs 💙 
+ - Studying React and ReactNative 🌱 
  - And I've been studying in UI / UX ⚡ 
