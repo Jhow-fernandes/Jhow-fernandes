@@ -9,5 +9,5 @@
 
 Hi everyone I call Jonathan Better known as John, I'm a Jr Front-end developer 👨🏽‍💻 
 - Completely passionate about JavaScript and NodeJs 💙 
- - Studying React and ReactNative 🌱 
+ - Studying React, NextJs 🌱 
  - And I've been studying in UI / UX ⚡ 
